@@ -1,0 +1,8 @@
+데이터 삽임메모
+insert into course(id, name, author) values (1, 'junstin', '쩌는계정');
+
+조회메모
+select * from course;
+
+삭제메모
+delete from course where id = 2;
